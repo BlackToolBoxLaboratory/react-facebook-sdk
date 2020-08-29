@@ -6,7 +6,7 @@ Application of facebook SDK for [React-development](https://facebook.github.io/r
 
 ## Version
 
-The major version of this package goes with [Facebook SDK for Javascript](https://developers.facebook.com/docs/javascript/). Please notice the versions of document refered and package used. The parameters of all features will follow this documemt, if any parameter found and workable, please feel free to let me know. I will add it in as a fixed version.
+This package's major number of version will follow to [Facebook SDK for Javascript](https://developers.facebook.com/docs/javascript/). Please notice the versions of document refered and package used. The parameters of all features will follow this documemt, if any parameter found and workable, please feel free to let me know. I will add it in as a fixed version.
 
 ## App Events
 
