@@ -21,10 +21,11 @@ Using with [NPM](https://www.npmjs.com/):
     $ npm install --save @blacktoolbox/react-facebook-sdk
 
     // using ES6 modules
-    import Menu from '@blacktoolbox/react-facebook-sdk';
+    import { sdk, components } from '@blacktoolbox/react-facebook-sdk';
 
     // using CommonJS modules
-    var Menu = require('@blacktoolbox/react-facebook-sdk');
+    var sdk = require('@blacktoolbox/react-facebook-sdk').sdk;
+    var components = require('@blacktoolbox/react-facebook-sdk').components;
 
 # Issue
 
