@@ -36,7 +36,3 @@ Please file [issue](https://github.com/BlackToolBoxLaboratory/react-facebook-sdk
 # Homepage
 
 You can see the document website [on-line](https://blacktoolboxlaboratory.github.io/react/v2/).
-
-# Icon source
-
-The source of icons are from [Brand Resource Center](https://en.facebookbrand.com/facebookapp/).

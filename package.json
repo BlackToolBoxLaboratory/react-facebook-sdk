@@ -3,6 +3,13 @@
   "packageName": "btblab-react-facebook-sdk",
   "version": "8.0.0",
   "description": "Application of facebook SDK for react-development.",
+  "keywords": [
+    "blacktoolbox",
+    "btblab",
+    "btb",
+    "react",
+    "facebook"
+  ],
   "main": "lib/index.js",
   "module": "esm/index.js",
   "jsnext:main": "esm/index.js",
