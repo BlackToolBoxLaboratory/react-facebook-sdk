@@ -1,4 +1,4 @@
-import * as sdk from './utils/index.js';
+import * as apis from './utils/index.js';
 import * as components from './components/index.js';
 
-export { sdk, components };
+export { apis, components };

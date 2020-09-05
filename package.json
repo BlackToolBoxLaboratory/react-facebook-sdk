@@ -1,7 +1,7 @@
 {
   "name": "@blacktoolbox/react-facebook-sdk",
   "packageName": "btblab-react-facebook-sdk",
-  "version": "8.0.0",
+  "version": "8.0.1",
   "description": "Application of facebook SDK for react-development.",
   "keywords": [
     "blacktoolbox",
