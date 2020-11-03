@@ -12,6 +12,7 @@ gulp.task('backup', async function (done) {
   /* others */
   gulp
     .src([
+      '.babelrc',
       '.eslintrc.js',
       '.gitignore',
       'LICENSE',

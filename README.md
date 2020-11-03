@@ -35,4 +35,4 @@ Please file [issue](https://github.com/BlackToolBoxLaboratory/react-facebook-sdk
 
 # Homepage
 
-You can see the document website [on-line](https://blacktoolboxlaboratory.github.io/react/v2/).
+You can see the document website [on-line](https://blacktoolboxlaboratory.github.io/react/v2/#/applications/facebook_sdk/).
