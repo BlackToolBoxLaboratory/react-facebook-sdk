@@ -1,7 +1,7 @@
 {
   "name": "@blacktoolbox/react-facebook-sdk",
   "packageName": "btblab-react-facebook-sdk",
-  "version": "8.0.1",
+  "version": "8.1.1",
   "description": "Application of facebook SDK for react-development.",
   "keywords": [
     "blacktoolbox",
@@ -40,7 +40,7 @@
   },
   "homepage": "https://blacktoolboxlaboratory.github.io/react/v2/",
   "peerDependencies": {
-    "react": "^16.8.0"
+    "react": ">=16.8.0"
   },
   "dependencies": {
     "classnames": "^2.2.6"

@@ -1,3 +1,9 @@
+## v8.1.1
+
+> Feb, 21, 2023
+
+- **Issue**: Fix peerDependencies.
+
 ## v8.1.0
 
 > Sep. 5, 2020
